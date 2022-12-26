@@ -8,4 +8,13 @@
         font-weight: 500;
         color: #fff;
     }
+    .error {
+        border: 1px solid red;
+    }
+    label.error {
+        margin-bottom: 15px;
+        color: #fff;
+        border: none;
+        text-align: center;
+    }
 }
